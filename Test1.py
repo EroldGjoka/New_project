@@ -1,2 +1,2 @@
-print("Hello World")
+print("Pao Ole Ole")
 print("Panathinaikos")
